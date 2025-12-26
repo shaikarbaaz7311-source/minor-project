@@ -1,0 +1,29 @@
+body {
+background-color:grey;
+}
+h1 {
+text-align:center;
+color:navy;
+font-size:50px;
+}
+div {
+border:5px outset red;
+background-color:yellow;
+}
+table,th,td {
+border:2px solid black;
+width:50%;
+text-align:center;
+}
+th {
+color:blue;
+}
+td {
+color:yellow;
+}
+table {
+align:center;
+}
+caption {
+color:white;
+}

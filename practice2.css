@@ -1,0 +1,70 @@
+body {
+background:linear-gradient(to right,lightgreen,lightblue);
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+}
+nav {
+background-color:blue;
+padding:0px 0px;
+height:90px;
+line-height:0px;
+width:100%;
+
+}
+nav ul {
+float:right;
+}
+li {
+padding:30px 10px;
+float:left;
+list-style:none;
+color:white;
+text-transform:uppercase;
+
+}
+li a {
+color:white;
+font-size:18px;
+}
+.car {
+color:white;
+font-size:30px;
+padding:0px 0px;
+float:left;
+font-weight:bold;
+text-transform:uppercase;
+}
+img {
+height:30px;
+padding:20px 50px;
+float:right;
+shape:oval;
+}
+.hero {
+box-sizing:border-box;
+color:white;
+radius:2px;
+background-color:tomato;
+width:33%;
+height:100%;
+margin:5%;
+float:left;
+overflow:auto;
+display:inline-block;
+}
+div {
+width:30%;
+display:inline-block;
+}
+aside {
+width:30%;
+padding:20px 0px;
+margin-left:10px;
+float:right;
+background-color:yellow;
+}
+footer {
+background-color:skyblue;
+font-size:300%;
+}

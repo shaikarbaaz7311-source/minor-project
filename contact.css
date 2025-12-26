@@ -1,0 +1,95 @@
+body {
+background:linear-gradient(to bottom,black,white);
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+}
+p {
+float:center;
+color:white;
+font-size:40px;
+padding-top:90px;
+}
+img {
+size:500%;
+width:40%;
+float:right;
+padding-right:30px;
+padding-top:30px;
+
+}
+h6 {
+font-size:30px;
+padding:5px 10px;
+text-transform:uppercase;
+
+}
+h5 {
+font-size:15px;
+text-transform:uppercase;
+padding:0px 10px;
+font-weight:bold;
+}
+nav {
+padding:10px 10px;
+font-weight:bold;
+
+}
+.a a {
+color:white;
+text-decoration:none;
+}
+* {
+margin:0%;
+}
+.bc {
+border:2px solid black;
+padding-bottom:20px;
+background-color:grey;
+
+}
+.sha img {
+float:left;
+padding-left:20px;
+border-radius:20%;
+
+}
+.sha {
+border:2px solid black;
+padding-top:0px;
+margin:0%;
+background-color:lightgrey;
+}
+.ra {
+color:red;
+}
+footer {
+border:2px solid black;
+border-radius:10px 10px;
+color:white;
+background-color:black;
+font-size:20px;
+}
+h4 {
+font-size:20px;
+}
+.g {
+font-size:30px;
+}
+.i {
+font-size:50px;
+}
+footer a {
+color:red;
+}
+h5 a:hover{
+background-color:white;
+color:black;
+}
+h6 a:hover{
+background-color:white;
+color:black;
+}
+
+
+

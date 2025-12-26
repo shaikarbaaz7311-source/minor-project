@@ -1,0 +1,71 @@
+body {
+background:linear-gradient(to bottom,black,white);
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+}
+
+* {
+border-sizing:border-box;
+}
+.b {
+float:left;
+width:30.33%;
+padding:10px;
+}
+.a::after{
+display:table;
+clear:both;
+padding-left:20px;
+background-color:red;
+border:2px solid black;
+}
+.u {
+height:600px;
+}
+.ar {
+height:500px;
+}
+
+.o {
+background-color:red;
+}
+.op a{
+color:white;
+text-decoration:none;
+}
+* {
+margin:0%;
+}
+nav {
+padding:20px;
+}
+h4 {
+color:white;
+font-size:30px;
+}
+p {
+color:white;
+
+}
+
+h1 {
+color:white;
+text-align:center;
+}
+
+.bc {
+height:500px;
+}
+
+
+
+h4 a:hover{
+background-color:white;
+color:black;
+}
+.r a:hover{
+background-color:white;
+color:black;
+}
+
